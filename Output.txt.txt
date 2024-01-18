@@ -1,0 +1,21 @@
+Employees who meet the criteria 'SEVEN_CONSECUTIVE_DAYS':
+Name: ArviWder",000432,,, Does not meet criteria: SEVEN_CONSECUTIVE_DAYS
+Name: EdAardE",000174,,, Does not meet criteria: SEVEN_CONSECUTIVE_DAYS
+Name: JEshAa",000256,,, Does not meet criteria: SEVEN_CONSECUTIVE_DAYS
+Name: JerrEd",000196,,, Does not meet criteria: SEVEN_CONSECUTIVE_DAYS
+Name: PraGhjEM",000054,,, Does not meet criteria: SEVEN_CONSECUTIVE_DAYS
+Name: Shadrack",000436,,, Does not meet criteria: SEVEN_CONSECUTIVE_DAYS
+Employees who meet the criteria 'LESS_THAN_10_HOURS_BETWEEN_SHIFTS':
+Name: ArviWder",000432,,, Does not meet criteria: LESS_THAN_10_HOURS_BETWEEN_SHIFTS
+Name: EdAardE",000174,,, Does not meet criteria: LESS_THAN_10_HOURS_BETWEEN_SHIFTS
+Name: JEshAa",000256,,, Does not meet criteria: LESS_THAN_10_HOURS_BETWEEN_SHIFTS 
+Name: JerrEd",000196,,, Does not meet criteria: LESS_THAN_10_HOURS_BETWEEN_SHIFTS 
+Name: PraGhjEM",000054,,, Does not meet criteria: LESS_THAN_10_HOURS_BETWEEN_SHIFTS
+Name: Shadrack",000436,,, Does not meet criteria: LESS_THAN_10_HOURS_BETWEEN_SHIFTS
+Employees who meet the criteria 'MORE_THAN_14_HOURS_IN_SINGLE_SHIFT':
+Name: ArviWder",000432,,, Does not meet criteria: MORE_THAN_14_HOURS_IN_SINGLE_SHIFT
+Name: EdAardE",000174,,, Does not meet criteria: MORE_THAN_14_HOURS_IN_SINGLE_SHIFT
+Name: JEshAa",000256,,, Does not meet criteria: MORE_THAN_14_HOURS_IN_SINGLE_SHIFT
+Name: JerrEd",000196,,, Does not meet criteria: MORE_THAN_14_HOURS_IN_SINGLE_SHIFT
+Name: PraGhjEM",000054,,, Does not meet criteria: MORE_THAN_14_HOURS_IN_SINGLE_SHIFT
+Name: Shadrack",000436,,, Does not meet criteria: MORE_THAN_14_HOURS_IN_SINGLE_SHIFT
